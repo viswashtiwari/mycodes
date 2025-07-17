@@ -18,4 +18,5 @@ public class Product {
     private Integer id;
     private String name;
     private String category;
+   private new of
 }
